@@ -2,7 +2,7 @@
 
 # Инвариативные задания
 
-* [1.1](https://github.com/MrGarfield1/E-Learning_Solutions/tree/main/1_1)
+* [1.1](https://github.com/MrGarfield1/E-Learning_Solutions/tree/main/1_1.md)
 * [1.2](https://github.com/MrGarfield1/E-Learning_Solutions/blob/main/1_2.md)
 * [1.3](https://github.com/MrGarfield1/E-Learning_Solutions/blob/main/1_3.md)
 * [1.4](https://github.com/MrGarfield1/E-Learning_Solutions/blob/main/1_4.md)
