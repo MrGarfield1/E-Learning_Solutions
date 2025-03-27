@@ -21,4 +21,4 @@
 * [2.1](https://github.com/MrGarfield1/E-Learning_Solutions/blob/main/2_1_var.md)
 * [2.2](https://github.com/MrGarfield1/E-Learning_Solutions/blob/main/2_2_var.md)
 * [3.1](https://github.com/MrGarfield1/E-Learning_Solutions/blob/main/3_1_var.md)
-* [3.2](https://github.com/MrGarfield1/E-Learning_Solutions/blob/main/3_2_var.pdf)
+* [3.2](https://github.com/MrGarfield1/E-Learning_Solutions/blob/main/3_2_var.md)
